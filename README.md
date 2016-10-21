@@ -14,6 +14,10 @@ _by Xinyan Chen_
 ---
 ## Initial Setup
 **1. Explain how to make a Github account**  
+* Go to [github.com](github.com)  
+* ![github link]()
+* Click "Sign up" to create a account  
+* 
 **2. Explain SSH key setup**
 
 
