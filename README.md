@@ -57,7 +57,7 @@ _by Xinyan Chen_
 
 ---
 ## Repository Setup
-**1. **
+**1. How to create a repository**
 
 
 
