@@ -14,20 +14,20 @@ _by Xinyan Chen_
 ---
 ## Initial Setup
 **1. Explain how to make a GitHub account**  
-* Go to [github.com](github.com)  ![](githublink.png)
+* Go to [github.com](github.com)  ![](githublink.png)  
 * Click **Sign up** to create a account  ![](signup.png)
 * Include your personal informations  
     * Type in your username  
     * Type in your email address  
     * Type in your a password  ![](addpersonalinfo.png)
-* Click **Create an account**  ![](craeteanaccount.png)
+* Click **Create an account**  ![](createanaccount.png)
 * Select **Free** account type  ![](free.png)
 * Click **Finish sign up**  
 
 **2. Explain SSH key setup**
 * Go to [github.com](github.com)  ![](githublink.png)
 * Click profile icon at the top-right  ![](profileicon.png)
-* Click **Setting**  ![setting.png]
+* Click **Setting**  ![](setting.png)
 * Click **SSH and GPG keys** at the left sidebar  ![](SSH&GPG.png)
 * Press **New SSH key**  ![](newSSH.png)
 * Type in _cloud9_ for **Title**  
