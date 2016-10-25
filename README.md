@@ -57,8 +57,37 @@ _by Xinyan Chen_
 
 ---
 ## Repository Setup
-**1. How to create a repository**
-
+**1. How to create a repository**  
+* Go to [cloud9](c9.io)  
+![](c9.png)  
+* Sign in with GitHub account  
+* Open github-learning IDE in [cloud9](c9.io)  
+![](IDE.png)  
+* Change to workspace by typing in `cd ~/workspace` into the terminal  
+* Make a new directory by typing in `mkdir first-repo` into the terminal  
+* Change into first-repo by typing in `cd first-repo` into the terminal  
+* Inside the first-repo type in `git init` into the terminal  
+* Create a README file by typing in `touch README.md` into the terminal  
+* Open README file by typing in `c9 README.md` into the terminal  
+* Type in any message(s) into README file  
+* Save the message(s) by pressing the keys _control_ and _z_  
+* Add the message(s) into the repo by typing in `git add README.md` into the terminal  
+* Take a screenshot of the message(s) by typing in `git commit -m ""` into the terminal  
+    * Note: Type in a good message that helps you understand the change(s) made in README file  
+* Open a new tab to [github.com](github.com)  
+![](githublink.png)  
+* Sign in with GitHub account  
+* Press the plus icon  
+![](plus.PNG)  
+* Click on **New Repository**  
+![](newrepo.PNG)  
+* Type in _first-repo_ in **Repository name**  
+![](repotitle.PNG)  
+* Press **Create repository**  
+![createrepo.PNG]  
+* Press **SSH** on the top and copy and paste `git remote add origin git@github.com:username/first-repo.git` and `git push -u origin master` one at a time into the terminal in git-learning IDE  
+![](repopush.PNG)  
+* Refresh the page to see changes  
 
 
 ---
