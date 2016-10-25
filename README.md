@@ -111,3 +111,23 @@ _by Xinyan Chen_
 * `git push`  
 * Update file folder  
     * Note: Can only push after commit  
+
+---
+# Extra Credit #
+
+---
+## Error Handling ##
+**1. Uninitalize directory**  
+* When you `git init` the wrong directory, type in `rm -rf .git` in the terminal  
+**2. `git push` without destination**  
+* When you `git push` the commit without a destination, type in `git add remote origin URL` first into the terminal then type in `git push -u origin master`  
+    * Note: Replace URL with your own link that you want to push the commit to  
+**3. Commit before add**  
+* When you forgot to `git add file.txt` before `git commit -m "message"`, type in `git add file.txt` into the terminal  
+    * Note: File.txt is your own file you want to add  
+**4. Escape `git commit`**  
+* When you type in `git commit` instead of `git commit -m "message"`, press _control_ and _x_ to return back to the terminal  
+**5. Escape comment mode**  
+* When you have trouble typing in commands and are stuck in the comment mode, press _control_ and _c_  
+**6. `git add` deleted files**  
+* When you want to `git add` deleted files, type in `git add --all` into the terminal  
