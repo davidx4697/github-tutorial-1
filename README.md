@@ -150,6 +150,7 @@ _by Xinyan Chen_
 ![](IDE.png)  
 * Type in `git clone` and paste the SSH key  
     * Note: Make sure you are in the workspace directory  
+    
 **2. Pull requests and `pull`**
 * * Go to a link you want to fork in GitHub  
 * Sign in with GitHub account  
