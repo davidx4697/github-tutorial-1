@@ -92,22 +92,22 @@ _by Xinyan Chen_
 ---
 ## Workflow & Commands
 **1. Workflow of Commands**  
-* `git status`
-* `git add file.txt`
-* `git status`
+* `git status`  
+* `git add file.txt`  
+* `git status`  
 * `git commit -m "message"`  
-* `git push`
+* `git push`  
 
 **2. Status**  
-* `git status`
+* `git status`  
 * Helps check which file(s) have been edited since last commit  
 **3. Add**  
 * `git add file.txt`  
-* Add file to the stage being committed
+* Add file to the stage being committed  
 **4. Commit**  
-* `git commit -m "message"`
-* Takes “Snapshot” of files. The message(s) have to be in present-tense and it describes what is being modified.
+* `git commit -m "message"`  
+* Takes “Snapshot” of files. The message(s) have to be in present-tense and it describes what is being modified.  
 **5. Push**  
-* `git push`
-* Update file folder
-    * Note: Can only push after commit 
+* `git push`  
+* Update file folder  
+    * Note: Can only push after commit  
