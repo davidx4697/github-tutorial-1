@@ -84,11 +84,10 @@ _by Xinyan Chen_
 * Type in _first-repo_ in **Repository name**  
 ![](repotitle.PNG)  
 * Press **Create repository**  
-![createrepo.PNG]  
+![](createrepo.PNG) 
 * Press **SSH** on the top and copy and paste `git remote add origin git@github.com:username/first-repo.git` and `git push -u origin master` one at a time into the terminal in git-learning IDE  
 ![](repopush.PNG)  
 * Refresh the page to see changes  
-
 
 ---
 ## Workflow & Commands
