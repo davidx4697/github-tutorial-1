@@ -135,4 +135,44 @@ _by Xinyan Chen_
 ---
 ## Collaboration ##
 **1. Fork and `clone`**  
+* Go to a link you want to fork in GitHub  
+* Sign in with GitHub account  
+* Press **Fork**  
+![](forkpress.PNG)  
+* Press **Clone or download**  
+![](clonepress.PNG)  
+* Make sure you clone with SSH and copy the SSH key  
+![](cloneSSH.PNG)  
+* Go to [cloud9](c9.io)  
+![](c9.png)  
+* Sign in with GitHub account  
+* Open github-learning IDE in [cloud9](c9.io)  
+![](IDE.png)  
+* Type in `git clone` and paste the SSH key  
+    * Note: Make sure you are in the workspace directory  
 **2. Pull requests and `pull`**
+* * Go to a link you want to fork in GitHub  
+* Sign in with GitHub account  
+* Press **Fork**  
+![](forkpress.PNG)  
+* Press **Clone or download**  
+![](clonepress.PNG)  
+* Make sure you clone with SSH and copy the SSH key  
+![](cloneSSH.PNG)  
+* Go to [cloud9](c9.io)  
+![](c9.png)  
+* Sign in with GitHub account  
+* Open github-learning IDE in [cloud9](c9.io)  
+![](IDE.png)  
+* Type in `git clone` and paste the SSH key  
+    * Note: Make sure you are in the workspace directory  
+* Make changes to the local repo  
+* `git add file.txt` the file  
+* `git commit -m "message"`  
+* `git push`  
+* Go to [github.com](github.com)  
+![](githublink.png)  
+* Press **New pull request**  
+![](pullrequest.PNG)  
+* Pull request approve  
+* Original owner use `git pull` to see what changes you make to the repo  
