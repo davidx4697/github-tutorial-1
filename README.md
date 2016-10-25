@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by Xinyan Chen_
+### _by Xinyan Chen_ ###
 
 ---
 ## Git vs. GitHub
