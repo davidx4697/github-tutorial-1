@@ -49,7 +49,9 @@ _by Xinyan Chen_
 * Go to **SSH keys** and copy and paste your SSH key into GitHub  
 ![](SSHkey.png)  
     * Key starts with `ssh-rsa`  
-![](exSSH.png)  
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3xTKs7yqspjZZYDpzaaBNONBTdjdJmAuD+S4efGqZ/nztmY7t6fKeZxXnL+kKTx3XBBQbLyU+QTXoVX49Man30unPFw+LJaMr3f9Fszv1S124z3ym8ofeUjRqES+c5LxP7UsngBHdvvcK1UIBv+v/lcWJMhWevRJ9byF2QFy3ac6LclK/iIgqcJXKLwGc+KBG1Yj1Pj/JMRQUjT3JF55qfVCc+FvvcwjRUgBrAnQxvNXO9rfzD2lBaJZQ2LQJ3fsYbjB63FbbWPAhDExpP9FO0YjEUjlZbDTUbQa0n7Av8aSepdqoHHUkky7r6HnkoD3M586HQRJL3Pk27GravMZJ
+```
 * Add SSH key  
 * Open github-learning IDE in [cloud9](c9.io)  
 ![](IDE.png)  
