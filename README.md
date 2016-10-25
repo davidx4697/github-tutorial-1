@@ -91,7 +91,8 @@ _by Xinyan Chen_
 
 ---
 ## Workflow & Commands
-**1. Status**  
-**2. Add**  
-**3. Commit**  
-**4. Push**  
+**1. Workflow of Commands**  
+**2. Status**  
+**3. Add**  
+**4. Commit**  
+**5. Push**  
