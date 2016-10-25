@@ -131,3 +131,8 @@ _by Xinyan Chen_
 * When you have trouble typing in commands and are stuck in the comment mode, press _control_ and _c_  
 **6. `git add` deleted files**  
 * When you want to `git add` deleted files, type in `git add --all` into the terminal  
+
+---
+## Collaboration ##
+**1. Fork and `clone`**  
+**2. Pull requests and `pull`**
