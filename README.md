@@ -72,7 +72,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3xTKs7yqspjZZYDpzaaBNONBTdjdJmAuD+S4efGqZ
 * Create a README file by typing in `touch README.md` into the terminal  
 * Open README file by typing in `c9 README.md` into the terminal  
 * Type in any message(s) into README file  
-* Save the message(s) by pressing the keys _control_ and _z_  
+* Save the message(s) by pressing the keys _control_ and _c_  
 * Add the message(s) into the repo by typing in `git add README.md` into the terminal  
 * Take a screenshot of the message(s) by typing in `git commit -m ""` into the terminal  
     * Note: Type in a good message that helps you understand the change(s) made in README file  
@@ -108,7 +108,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3xTKs7yqspjZZYDpzaaBNONBTdjdJmAuD+S4efGqZ
 * Add file to the stage being committed  
 **4. Commit**  
 * `git commit -m "message"`  
-* Takes “Snapshot” of files. The message(s) have to be in present-tense and it describes what is being modified.  
+* Takes “Snapshot” of files. The message(s) have to be in present-tense and it describes what is being modified  
 **5. Push**  
 * `git push`  
 * Update file folder  
